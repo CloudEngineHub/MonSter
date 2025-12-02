@@ -100,7 +100,7 @@ pip install gradio==4.29.0
 |sceneflow | [Download 🤗](https://huggingface.co/cjd24/MonSter/resolve/main/sceneflow.pth?download=true)|
 |mix_all (mix of all datasets) | [Download 🤗](https://huggingface.co/cjd24/MonSter/resolve/main/mix_all.pth?download=true)|
 
-The mix_all model is trained on all the datasets mentioned above, which has the best performance on zero-shot generalization.
+The mix_all model is trained on all the datasets mentioned above, which has the best performance on zero-shot generalization. There is a bug in the sceneflow model reproduction. We are working on it and will re-upload it later.
 
 
 ## ✈️ Evaluation
